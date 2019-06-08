@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: https://cap.stanford.edu/profiles/viewCV?facultyId=180825&name=Honglin_Yuan
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
