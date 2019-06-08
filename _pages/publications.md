@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+H. Yuan, X. Gu, R. Lai, Z. Wen, Global Optimization with Orthogonality Constraints via Stochastic Diﬀusion on Manifold, Journal of Scientiﬁc Computing, 2019.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
