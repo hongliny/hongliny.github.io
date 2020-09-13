@@ -12,6 +12,8 @@ I am a Ph.D. candidate at Stanford ICME. My current research interest lies in ma
 
 Before coming to Stanford, I graduated from [Peking University](http://english.pku.edu.cn) with B.S. degrees in Computational Mathematics and Computer Science. 
 
+Please fine my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&name=Honglin_Yuan) here.
+
 ## Publications
 
 - **Honglin Yuan**, Tengyu Ma, [
