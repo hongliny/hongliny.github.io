@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu) (ICME) at Stanford University. My current research interests lie broadly in optimization and machine learning theory. I am fortunate to be advised by [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+I am a Ph.D. candidate at Stanford ICME. My current research interests lie broadly in machine learning thoery, in particular Federated Learning, Optimization and Deep Learning theory. I am fortunate to be advised by Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
-Before coming to Stanford, I graduated from [Peking University](http://english.pku.edu.cn) with B.S. degrees in Computational Mathematics and Computer Science. I did my senior thesis on manifold-constrained optimization, under the supervision of [Zaiwen Wen](http://bicmr.pku.edu.cn/~wenzw/index.html ) and [Rongjie Lai](http://homepages.rpi.edu/~lair/). 
-
+Before coming to Stanford, I graduated from [Peking University](http://english.pku.edu.cn) with B.S. degrees in Computational Mathematics and Computer Science. 
 
 
 
