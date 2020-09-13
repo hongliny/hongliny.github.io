@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://cap.stanford.edu/profiles/viewCV?facultyId=180825&name=Honglin_Yuan
+  # - title: "CV"
+  #  url: https://cap.stanford.edu/profiles/viewCV?facultyId=180825&name=Honglin_Yuan
     
   # - title: "Guide"
   #   url: /markdown/
