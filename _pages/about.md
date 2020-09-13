@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Stanford ICME. My current research interests lie broadly in machine learning thoery, in particular Federated Learning, Optimization and Deep Learning theory. I am fortunate to be advised by Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
+I am a Ph.D. candidate at Stanford ICME. My current research interest lies in machine learning thoery, in particular Federated Learning, Optimization and Deep Learning theory. I am fortunate to be advised by Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).
 
 Before coming to Stanford, I graduated from [Peking University](http://english.pku.edu.cn) with B.S. degrees in Computational Mathematics and Computer Science. 
 
