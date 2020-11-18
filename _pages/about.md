@@ -16,10 +16,12 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 ## Publications
 
+- **Honglin Yuan**, Manzil Zaheer, Sashank Reddi, [Federated Composite Optimization](https://arxiv.org/abs/2011.08474), arXiv:2011.08474
+
 - **Honglin Yuan**, Tengyu Ma, [
 Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950), NeurIPS 2020; **Best Paper Award** in International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 [(FL-ICML'20)](http://federated-learning.org/fl-icml-2020/)
 
-- **Honglin Yuan**, Xiaoyi Gu, Rongjie Lai, Zaiwen Wen, [Global Optimization with Orthogonality Constraints via Stochastic Diﬀusion on Manifold](https://link.springer.com/article/10.1007/s10915-019-00971-w), Journal of Scientiﬁc Computing, 2019.
+- **Honglin Yuan**, Xiaoyi Gu, Rongjie Lai, Zaiwen Wen, [Global Optimization with Orthogonality Constraints via Stochastic Diffusion on Manifold](https://link.springer.com/article/10.1007/s10915-019-00971-w), Journal of Scientific Computing, 2019.
 
 
 
