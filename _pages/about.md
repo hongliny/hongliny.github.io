@@ -31,7 +31,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 - [Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)  
   **Honglin Yuan**, Tengyu Ma  
   [NeurIPS 2020](https://papers.nips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html) 
-  (**Best Paper** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/))
+  (**Best Paper** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/) workshop)
   | [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex)
   | [video (3 min)](https://youtu.be/K28zpAgg3HM)
   | [poster (pdf)](https://hongliny.github.io/files/FedAc_NeurIPS20/FedAc_NeurIPS20_poster.pdf) 
