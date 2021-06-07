@@ -18,7 +18,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
-  ICML 2021
+  ICML 2021, [bib](https://dblp.org/rec/journals/corr/abs-2011-08474.html?view=bibtex), [talk video at Federated Learning One World Seminar](https://www.youtube.com/watch?v=tKDbc60XJks), [slides](https://drive.google.com/file/d/1kqMcZUzE2zxMvwDXJmQmYlqoQsZYTmF5/view?usp=sharing)
 
 <!-- - **Honglin Yuan**, Manzil Zaheer, Sashank Reddi, [Federated Composite Optimization](https://arxiv.org/abs/2011.08474), ICML 2021 -->
 
