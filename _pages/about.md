@@ -33,7 +33,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   [NeurIPS 2020](https://papers.nips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html) 
   (**Best Paper Award** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/))
   | [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex)  
-  | [video (3 min)](https://youtu.be/K28zpAgg3HM)  
+  | [video (3 min)](https://youtu.be/K28zpAgg3HM)
   | [poster (pdf)](https://icme.stanford.edu/sites/g/files/sbiybj17116/files/media/file/fedac-poster-xpo.pdf) 
   | [code repository](https://github.com/hongliny/FedAc-NeurIPS20) 
 
