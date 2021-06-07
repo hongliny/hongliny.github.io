@@ -18,7 +18,8 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
-  ICML 2021. [bib](https://dblp.org/rec/journals/corr/abs-2011-08474.html?view=bibtex) 
+  ICML 2021 
+  | [bib](https://dblp.org/rec/journals/corr/abs-2011-08474.html?view=bibtex) 
   | [seminar video](https://www.youtube.com/watch?v=tKDbc60XJks) 
   | [slides (pdf)](https://drive.google.com/file/d/1kqMcZUzE2zxMvwDXJmQmYlqoQsZYTmF5/view?usp=sharing) 
   | [code repository](https://github.com/hongliny/FCO-ICML21)
@@ -26,7 +27,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 - [Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)  
   **Honglin Yuan**, Tengyu Ma  
   [NeurIPS 2020](https://papers.nips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html) 
-  (**Best Paper Award** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/)). 
+  (**Best Paper Award** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/))
   | [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex) 
   | [poster (pdf)](https://icme.stanford.edu/sites/g/files/sbiybj17116/files/media/file/fedac-poster-xpo.pdf) 
   | [code repository](https://github.com/hongliny/FedAc-NeurIPS20) 
