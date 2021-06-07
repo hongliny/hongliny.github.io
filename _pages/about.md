@@ -21,7 +21,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   ICML 2021. [bib](https://dblp.org/rec/journals/corr/abs-2011-08474.html?view=bibtex) [talk video at Federated Learning One World Seminar](https://www.youtube.com/watch?v=tKDbc60XJks), [slides](https://drive.google.com/file/d/1kqMcZUzE2zxMvwDXJmQmYlqoQsZYTmF5/view?usp=sharing) [code](https://github.com/hongliny/FCO-ICML21)
 
 - [Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)  
-  **Honglin Yuan**, Tengyu Ma
+  **Honglin Yuan**, Tengyu Ma  
   NeurIPS 2020. **Best Paper Award** in International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex) [code](https://github.com/hongliny/FedAc-NeurIPS20)
   
 
