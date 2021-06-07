@@ -16,10 +16,8 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 ## Publications
 
-- [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)
-
-  **Honglin Yuan**, Manzil Zaheer, Sashank Reddi
-  
+- [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
+  **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
   ICML 2021
 
 <!-- - **Honglin Yuan**, Manzil Zaheer, Sashank Reddi, [Federated Composite Optimization](https://arxiv.org/abs/2011.08474), ICML 2021 -->
