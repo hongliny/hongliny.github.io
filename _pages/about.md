@@ -17,7 +17,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 ## Publications
 
 - Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
-  Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order). 
+  Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
   Manuscript
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
