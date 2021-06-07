@@ -16,7 +16,11 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 ## Publications
 
-- **Honglin Yuan**, Manzil Zaheer, Sashank Reddi, [Federated Composite Optimization](https://arxiv.org/abs/2011.08474), ICML 2021
+- [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)
+  **Honglin Yuan**, Manzil Zaheer, Sashank Reddi
+  ICML 2021
+
+<!-- - **Honglin Yuan**, Manzil Zaheer, Sashank Reddi, [Federated Composite Optimization](https://arxiv.org/abs/2011.08474), ICML 2021 -->
 
 - **Honglin Yuan**, Tengyu Ma, [
 Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950), NeurIPS 2020; **Best Paper Award** in International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 [(FL-ICML'20)](http://federated-learning.org/fl-icml-2020/)
