@@ -16,11 +16,15 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 ## Publications
 
+- Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
+  Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order). 
+  Manuscript
+
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
   ICML 2021 
   | [bib](https://dblp.org/rec/journals/corr/abs-2011-08474.html?view=bibtex) 
-  | [seminar video](https://www.youtube.com/watch?v=tKDbc60XJks) 
+  | [talk video at FLOW seminar](https://www.youtube.com/watch?v=tKDbc60XJks) 
   | [slides (pdf)](https://drive.google.com/file/d/1kqMcZUzE2zxMvwDXJmQmYlqoQsZYTmF5/view?usp=sharing) 
   | [code repository](https://github.com/hongliny/FCO-ICML21)
 
@@ -35,8 +39,9 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [Global Optimization with Orthogonality Constraints via Stochastic Diffusion on Manifold](https://link.springer.com/article/10.1007/s10915-019-00971-w)  
   **Honglin Yuan**, Xiaoyi Gu, Rongjie Lai, Zaiwen Wen  
-  Journal of Scientific Computing, 2019. 
+  Journal of Scientific Computing, 2019 
   | [bib](https://dblp.org/rec/journals/jscic/YuanGLW19.html?view=bibtex)
+  | [slides (pdf)](https://www.dropbox.com/s/wgpb7a6nfbrkmyi/SPOC%2016.pdf?dl=0)
   
 
 
