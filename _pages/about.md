@@ -21,11 +21,12 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   Manuscript (to appear)
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
-  Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.
+  Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
+  [arXiv:2107.06917](https://arxiv.org/abs/2107.06917)  
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
-  ICML 2021 
+  [ICML 2021](http://proceedings.mlr.press/v139/yuan21d.html) 
   | [bib](https://dblp.org/rec/conf/icml/YuanZR21.html?view=bibtex) 
   | [talk video at FLOW seminar](https://www.youtube.com/watch?v=tKDbc60XJks) 
   | [slides (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf) 
