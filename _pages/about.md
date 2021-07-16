@@ -20,7 +20,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
   Manuscript (to appear)
 
-- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
+- [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
   Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
