@@ -25,7 +25,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   [arXiv](https://arxiv.org/abs/2107.06917) 
   | [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:88iJKA2lBMAJ:scholar.google.com/&output=citation&scisdr=CgUBchfeEMyOkAVYzxU:AAGBfm0AAAAAYPhd1xWlzOLw-iXhH4cYz4dJ6zNEv7jR&scisig=AAGBfm0AAAAAYPhd1w_UsSmbFqsPT4YCjSjY4ptOT2EE&scisf=4&ct=citation&cd=-1&hl=en) 
   | [blog post](https://www.linkedin.com/feed/update/urn:li:activity:6823653051853893632/) 
-  | [code repository](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
+  | [code](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
@@ -33,7 +33,8 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   | [bib](https://dblp.org/rec/conf/icml/YuanZR21.html?view=bibtex) 
   | [talk video at FLOW seminar](https://www.youtube.com/watch?v=tKDbc60XJks) 
   | [slides (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf) 
-  | [code repository](https://github.com/hongliny/FCO-ICML21)
+  | [poster (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_poster.pdf) 
+  | [code](https://github.com/hongliny/FCO-ICML21)
 
 - [Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)  
   **Honglin Yuan**, Tengyu Ma  
@@ -42,7 +43,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   | [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex)
   | [video (3 min)](https://youtu.be/K28zpAgg3HM)
   | [poster (pdf)](https://hongliny.github.io/files/FedAc_NeurIPS20/FedAc_NeurIPS20_poster.pdf) 
-  | [code repository](https://github.com/hongliny/FedAc-NeurIPS20) 
+  | [code](https://github.com/hongliny/FedAc-NeurIPS20) 
 
 
 - [Global Optimization with Orthogonality Constraints via Stochastic Diffusion on Manifold](https://link.springer.com/article/10.1007/s10915-019-00971-w)  
