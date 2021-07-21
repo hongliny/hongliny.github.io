@@ -32,8 +32,8 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   [ICML 2021](http://proceedings.mlr.press/v139/yuan21d.html) 
   | [bib](https://dblp.org/rec/conf/icml/YuanZR21.html?view=bibtex) 
   | [talk video at FLOW seminar](https://www.youtube.com/watch?v=tKDbc60XJks) 
-  | [slides (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf) 
-  | [poster (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_poster.pdf) 
+  | [slides](https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf) 
+  | [poster](https://hongliny.github.io/files/FCO_ICML21/FCO_poster.pdf) 
   | [code](https://github.com/hongliny/FCO-ICML21)
 
 - [Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)  
@@ -42,7 +42,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   (**Best Paper** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/) workshop)
   | [bib](https://dblp.org/rec/conf/nips/YuanM20.html?view=bibtex)
   | [video (3 min)](https://youtu.be/K28zpAgg3HM)
-  | [poster (pdf)](https://hongliny.github.io/files/FedAc_NeurIPS20/FedAc_NeurIPS20_poster.pdf) 
+  | [poster](https://hongliny.github.io/files/FedAc_NeurIPS20/FedAc_NeurIPS20_poster.pdf) 
   | [code](https://github.com/hongliny/FedAc-NeurIPS20) 
 
 
@@ -50,7 +50,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   **Honglin Yuan**, Xiaoyi Gu, Rongjie Lai, Zaiwen Wen  
   Journal of Scientific Computing, 2019 
   | [bib](https://dblp.org/rec/journals/jscic/YuanGLW19.html?view=bibtex)
-  | [slides (pdf)](https://hongliny.github.io/files/GlobalOptStfMfd_JSC19/GlobalOptStfMfd_JSC19_slides.pdf)
+  | [slides](https://hongliny.github.io/files/GlobalOptStfMfd_JSC19/GlobalOptStfMfd_JSC19_slides.pdf)
   
 
 
