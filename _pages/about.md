@@ -22,7 +22,10 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
   Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
-  [arXiv:2107.06917](https://arxiv.org/abs/2107.06917)  
+  [arXiv](https://arxiv.org/abs/2107.06917) 
+  | [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:88iJKA2lBMAJ:scholar.google.com/&output=citation&scisdr=CgUBchfeEMyOkAVYzxU:AAGBfm0AAAAAYPhd1xWlzOLw-iXhH4cYz4dJ6zNEv7jR&scisig=AAGBfm0AAAAAYPhd1w_UsSmbFqsPT4YCjSjY4ptOT2EE&scisf=4&ct=citation&cd=-1&hl=en) 
+  | [blog post](https://www.linkedin.com/feed/update/urn:li:activity:6823653051853893632/) 
+  | [code repository](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
   **Honglin Yuan**, Manzil Zaheer, Sashank Reddi  
