@@ -23,7 +23,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 - Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective  
   Joint work with Margalit Glasgow and Tengyu Ma  
   Manuscript (to appear) 
-  | [NeurIPS'21 FL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html)(contributed talk)
+  | [NeurIPS'21 FL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) (contributed talk)
   
 - [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
   **Honglin Yuan**, Warren Morningstar, Lin Ning, Karan Singhal  
@@ -33,7 +33,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
   Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
-  Manuuscript ([arXiv](https://arxiv.org/abs/2107.06917)) 
+  Manuscript ([arXiv](https://arxiv.org/abs/2107.06917)) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2107-06917.html?view=bibtex) 
   | [code](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
 
