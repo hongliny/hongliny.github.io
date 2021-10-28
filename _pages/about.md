@@ -19,12 +19,16 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 - Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
   Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
   Manuscript (to appear)
+  
+- [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
+  **Honglin Yuan**, Warren Morningstar, Lin Ning, Karan Singhal  
+  [arXiv](https://arxiv.org/abs/2110.14216) (Accepted to NeurIPS'21 workshop on New Frontiers in Federated Learning) 
+  | [code](https://github.com/google-research/federated) 
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
   Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
   [arXiv](https://arxiv.org/abs/2107.06917) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2107-06917.html?view=bibtex) 
-  | [blog post](https://www.linkedin.com/feed/update/urn:li:activity:6823653051853893632/) 
   | [code](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
 
 - [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)  
