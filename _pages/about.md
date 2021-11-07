@@ -18,12 +18,14 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
   Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  Manuscript (to appear)
+  Manuscript (to appear) 
+  | [code](https://github.com/hongliny/BSLS)
   
 - Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective  
   Joint work with Margalit Glasgow and Tengyu Ma  
   Manuscript (to appear) 
-  | [NeurIPS'21 NFFL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) (contributed talk)
+  | [NeurIPS'21 NFFL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) (oral) 
+  | [code](https://github.com/hongliny/Sharp-Bounds-for-FedAvg-and-Continuous-Perspective)
   
 - [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
   **Honglin Yuan**, Warren Morningstar, Lin Ning, Karan Singhal  
