@@ -17,12 +17,12 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 ## Publications
 
 - Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
-  Joint work with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  Manuscript (to appear) 
+  with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
+  [arXiv:2111.03137](https://arxiv.org/abs/2111.03137)  
   | [code](https://github.com/hongliny/BSLS)
   
 - Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective  
-  Joint work with Margalit Glasgow and Tengyu Ma  
+  with Margalit Glasgow and Tengyu Ma  
   Manuscript (to appear) 
   | [NeurIPS'21 NFFL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) (oral) 
   | [code](https://github.com/hongliny/Sharp-Bounds-for-FedAvg-and-Continuous-Perspective)
@@ -35,7 +35,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   | [code](https://github.com/google-research/federated) 
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
-  Joint work with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
+  with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
   [arXiv:2107.06917](https://arxiv.org/abs/2107.06917) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2107-06917.html?view=bibtex) 
   | [code](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
