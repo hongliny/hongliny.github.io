@@ -18,7 +18,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - Big-Step-Little-Step: Gradient Methods for Objectives with Multiple Scales  
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  [arXiv:2111.03137](https://arxiv.org/abs/2111.03137)  
+  [arXiv:2111.03137](https://arxiv.org/abs/2111.03137) 
   | [code](https://github.com/hongliny/BSLS)
   
 - Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective  
