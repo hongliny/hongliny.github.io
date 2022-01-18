@@ -23,7 +23,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   
 - [Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective](https://arxiv.org/abs/2111.03741)  
   Margalit Glasgow\*, **Honglin Yuan**\*, Tengyu Ma (\*equal contribution)  
-  [arXiv:2111.03741](https://arxiv.org/abs/2111.03741) 
+  AISTATS 2022 
   | [NeurIPS'21 NFFL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) (oral) 
   | [code](https://github.com/hongliny/Sharp-Bounds-for-FedAvg-and-Continuous-Perspective)
   
