@@ -29,8 +29,7 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
   
 - [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
   **Honglin Yuan**, Warren Morningstar, Lin Ning, Karan Singhal  
-  [arXiv:2110.14216](https://arxiv.org/abs/2110.14216) 
-  | [NeurIPS'21 NFFL workshop](https://neurips2021workshopfl.github.io/NFFL-2021/paper.html) 
+  ICLR 2022 
   | [bib](https://dblp.org/rec/journals/corr/abs-2110-14216.html?view=bibtex) 
   | [code](https://github.com/google-research/federated) 
 
