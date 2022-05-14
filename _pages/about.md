@@ -18,19 +18,19 @@ Please find my [CV](https://cap.stanford.edu/profiles/viewCV?facultyId=180825&na
 
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  [arXiv:2111.03137](https://arxiv.org/abs/2111.03137) 
+  COLT 2022 
   | [bib](https://dblp.org/rec/journals/corr/abs-2111-03137.html?view=bibtex) 
   | [code](https://github.com/hongliny/BSLS)
   
 - [Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective](https://arxiv.org/abs/2111.03741)  
   Margalit Glasgow\*, **Honglin Yuan**\*, Tengyu Ma (\*equal contribution)  
-  AISTATS 2022 
+  [AISTATS 2022](https://proceedings.mlr.press/v151/glasgow22a.html) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2111-03741.html?view=bibtex) 
   | [code](https://github.com/hongliny/Sharp-Bounds-for-FedAvg-and-Continuous-Perspective)
   
 - [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
   **Honglin Yuan**, Warren Morningstar, Lin Ning, Karan Singhal  
-  ICLR 2022 
+  [ICLR 2022](https://openreview.net/forum?id=VimqQq-i_Q) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2110-14216.html?view=bibtex) 
   | [code](https://github.com/google-research/federated) 
 
