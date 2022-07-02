@@ -16,16 +16,10 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 
 - [On principled local optimization methods for federated learning](https://searchworks.stanford.edu/view/14229456)  
   Ph.D. Thesis, 2022
-
-- [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
-  with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  [COLT 2022](https://proceedings.mlr.press/v178/kelner22a.html)  
-  | [bib](https://dblp.org/rec/journals/corr/abs-2111-03137.html?view=bibtex) 
-  | [code](https://github.com/hongliny/BSLS)
   
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  [COLT 2022](https://proceedings.mlr.press/v178/kelner22a.html)  
+  [COLT 2022](https://proceedings.mlr.press/v178/kelner22a.html) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2111-03137.html?view=bibtex) 
   | [code](https://github.com/hongliny/BSLS)
   
