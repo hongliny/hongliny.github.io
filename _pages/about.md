@@ -15,7 +15,7 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 ## Publications
 
 - [On principled local optimization methods for federated learning](https://searchworks.stanford.edu/view/14229456)  
-  Ph.D. Thesis, 2022
+  Ph.D. Thesis, Stanford University, 2022
   
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
