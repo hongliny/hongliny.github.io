@@ -18,7 +18,7 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
-  COLT 2022 
+  [COLT 2022](https://proceedings.mlr.press/v178/kelner22a.html)  
   | [bib](https://dblp.org/rec/journals/corr/abs-2111-03137.html?view=bibtex) 
   | [code](https://github.com/hongliny/BSLS)
   
