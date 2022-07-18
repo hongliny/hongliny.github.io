@@ -14,7 +14,7 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 
 ## Publications
 
-- [Plex: Towards Reliability using Pretrained Large Model Extensions]  
+- [Plex: Towards Reliability using Pretrained Large Model Extensions](https://arxiv.org/abs/2207.07411)  
   with Dustin Tran et al.  
   [arXiv: 2207.07411](https://arxiv.org/abs/2207.07411) 
   | [blog](https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
