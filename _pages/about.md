@@ -14,6 +14,11 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 
 ## Publications
 
+- [Plex: Towards Reliability using Pretrained Large Model Extensions]  
+  with Dustin Tran et al.  
+  [arXiv: 2207.07411](https://arxiv.org/abs/2207.07411) 
+  | [blog](https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
+  
 - [On Principled Local Optimization Methods for Federated Learning](https://searchworks.stanford.edu/view/14229456)  
   Ph.D. Thesis, Stanford University, 2022
   
@@ -36,7 +41,7 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
   | [code](https://github.com/google-research/federated) 
 
 - [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)  
-  with Jianyu Wang, Zachary Charles, Zheng Xu, Gauri Joshi, H. Brendan McMahan et al.  
+  with Jianyu Wang et al.  
   [arXiv:2107.06917](https://arxiv.org/abs/2107.06917) 
   | [bib](https://dblp.org/rec/journals/corr/abs-2107-06917.html?view=bibtex) 
   | [code](https://github.com/google-research/federated/tree/aa2df1c7f513584532cac9c939ddd94f434ed430/fedopt_guide) 
