@@ -17,6 +17,8 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 - [Plex: Towards Reliability using Pretrained Large Model Extensions](https://arxiv.org/abs/2207.07411)  
   with Dustin Tran et al.  
   [arXiv: 2207.07411](https://arxiv.org/abs/2207.07411) 
+  | [bib](https://dblp.org/rec/journals/corr/abs-2207-07411.html?view=bibtex) 
+  | [code](https://goo.gle/plex-code) 
   | [blog](https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
   
 - [On Principled Local Optimization Methods for Federated Learning](https://searchworks.stanford.edu/view/14229456)  
@@ -25,13 +27,13 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) here.
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
   with Jonathan Kelner, Annie Marsden, Vatsal Sharan, Aaron Sidford, Gregory Valiant (alphabetical order)  
   [COLT 2022](https://proceedings.mlr.press/v178/kelner22a.html) 
-  | [bib](https://dblp.org/rec/journals/corr/abs-2111-03137.html?view=bibtex) 
+  | [bib](https://dblp.org/rec/conf/colt/KelnerMSSVY22.html?view=bibtex) 
   | [code](https://github.com/hongliny/BSLS)
   
 - [Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective](https://arxiv.org/abs/2111.03741)  
   Margalit Glasgow\*, **Honglin Yuan**\*, Tengyu Ma (\*equal contribution)  
   [AISTATS 2022](https://proceedings.mlr.press/v151/glasgow22a.html) 
-  | [bib](https://dblp.org/rec/journals/corr/abs-2111-03741.html?view=bibtex) 
+  | [bib](https://dblp.org/rec/conf/aistats/GlasgowY022.html?view=bibtex) 
   | [code](https://github.com/hongliny/Sharp-Bounds-for-FedAvg-and-Continuous-Perspective)
   
 - [What Do We Mean by Generalization in Federated Learning?](https://arxiv.org/abs/2110.14216)  
