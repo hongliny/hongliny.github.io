@@ -21,7 +21,7 @@ Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) and [G
   | [code](https://goo.gle/plex-code) 
   | [blog](https://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
   
-- [On Principled Local Optimization Methods for Federated Learning](https://searchworks.stanford.edu/view/14229456)  
+- [On Principled Local Optimization Methods for Federated Learning](https://arxiv.org/abs/2401.13216)  
   Ph.D. Thesis, Stanford University, 2022
   
 - [Big-Step-Little-Step: Efficient Gradient Methods for Objectives with Multiple Scales](https://arxiv.org/abs/2111.03137)     
