@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quantitative Researcher at [Citadel Securities](https://www.citadelsecurities.com/). Previously, I got my Ph.D. degree from Stanford [ICME](https://icme.stanford.edu/), where I was fortunate to be advised by Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interest lies in machine learning theory, in particular Federated Learning, Optimization and Deep Learning theory. Before Stanford, I graduated from [Peking University](http://english.pku.edu.cn) with B.S. degrees in Computational Mathematics and Computer Science. 
+I am a Quantitative Researcher at [Citadel Securities](https://www.citadelsecurities.com/). Previously, I got my Ph.D. degree from Stanford [ICME](https://icme.stanford.edu/), where I was fortunate to be advised by Professor [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interest lies in machine learning theory, in particular Federated Learning, Optimization and Deep Learning theory. Prior to attending Stanford, I earned dual B.S. degrees in Mathematics and Computer Science from [Peking University](http://english.pku.edu.cn).
 
 Please find my [CV](https://hongliny.github.io/files/Honglin_Yuan_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=6rQZU7MAAAAJ&hl=en) here.
 
